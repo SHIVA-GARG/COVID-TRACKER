@@ -12,7 +12,7 @@ import InfoBoxes from "./InfoBoxes";
 import Table from "./Table";
 import { sortData } from "./util";
 import LineGraph from "./LineGraph";
-import Map from "./Map";
+// import Map from "./Map";
 
 function App() {
   const [countries, setCountries] = useState([]);
@@ -110,7 +110,7 @@ function App() {
         </div>
 
         {/* world wide map */}
-        <Map />
+//         <Map />
       </div>
       <Card className="app__right">
         <CardContent>
