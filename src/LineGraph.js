@@ -100,3 +100,4 @@ function LineGraph({ casesType = "cases" }) {
 }
 
 export default LineGraph;
+// >>>>>>> 711125ceb2f8c4292c930bbe38d1eab7ce8ea715
